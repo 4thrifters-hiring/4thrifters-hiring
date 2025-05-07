@@ -32,7 +32,7 @@ We use **GitHub Classroom** to manage and track all submissions.
   - ✅ How to run your script or project
   - ✅ A brief explanation of your thought process or design choices
   - ✅ Any bonus features you added
-- Follow all task guidelines and rules, NOTE: diregarding the rules will lead you to being disqualified.
+- Follow all task guidelines and rules, NOTE: disregarding the rules will lead you to being disqualified.
 
 ### ✅ Step 3: Push & Notify
 - Commit and push your changes to the GitHub Classroom repository.
